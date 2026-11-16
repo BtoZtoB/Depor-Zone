@@ -1,0 +1,268 @@
+[
+  {
+    "id": "cesped",
+    "tipo": "cesped",
+    "nombre": "El Mirador",
+    "precio": 180,
+    "descripcion": "Fútbol con vista panorámica; incluye balón y petos.",
+    "imagen": "img/cancha1.jpg",
+    "caracteristicas": [
+      "Vista panorámica al aire libre",
+      "Balón de fútbol incluido",
+      "10 petos para dividir equipos",
+      "Zona de descanso con sombra"
+    ],
+    "incluyeBalon": true,
+    "incluyeIluminacion": false,
+    "incluyeKitEntrenamiento": false
+  },
+  {
+    "id": "sintetico",
+    "tipo": "sintetico",
+    "nombre": "Neón Arena",
+    "precio": 150,
+    "descripcion": "Ambiente nocturno con luces LED y marcador digital.",
+    "imagen": "img/cancha2.jpg",
+    "caracteristicas": [
+      "Iluminación LED reforzada",
+      "Marcador digital para el partido",
+      "Vestuario privado para los equipos",
+      "Ambiente urbano para jugar entre amigos",
+      "Iluminación nocturna incluida en el precio"
+    ],
+    "incluyeBalon": false,
+    "incluyeIluminacion": true,
+    "incluyeKitEntrenamiento": false
+  },
+  {
+    "id": "cemento",
+    "tipo": "cemento",
+    "nombre": "La Esquina",
+    "precio": 90,
+    "descripcion": "Futsal de barrio con música y balón incluido.",
+    "imagen": "img/cancha3.jpg",
+    "caracteristicas": [
+      "Balón de futsal incluido",
+      "Parlante Bluetooth disponible",
+      "Bancas junto a la cancha",
+      "Ambiente informal para jugar entre amigos"
+    ],
+    "incluyeBalon": true,
+    "incluyeIluminacion": false,
+    "incluyeKitEntrenamiento": false
+  },
+  {
+    "id": "parquet",
+    "tipo": "parquet",
+    "nombre": "Palacio del Futsal",
+    "precio": 130,
+    "descripcion": "Vive un torneo con tribunas y mesa de control.",
+    "imagen": "img/cancha4.jpg",
+    "caracteristicas": [
+      "Graderías para acompañantes",
+      "Mesa de control para torneos",
+      "Marcador manual de goles",
+      "Piso de parquet en recinto cerrado",
+      "Kit de entrenamiento incluido: conos, petos y escalera de coordinación"
+    ],
+    "incluyeBalon": false,
+    "incluyeIluminacion": false,
+    "incluyeKitEntrenamiento": true
+  },
+  {
+    "id": "cancha5",
+    "tipo": "cesped",
+    "nombre": "La Arboleda",
+    "precio": 180,
+    "descripcion": "Juega entre árboles y comparte en la zona familiar.",
+    "imagen": "img/cancha5.jpg",
+    "caracteristicas": [
+      "Entorno arbolado al aire libre",
+      "Mesas para acompañantes",
+      "Área de picnic junto a la cancha",
+      "Ambiente tranquilo para partidos familiares",
+      "Kit de entrenamiento incluido: conos, petos y escalera de coordinación"
+    ],
+    "incluyeBalon": false,
+    "incluyeIluminacion": false,
+    "incluyeKitEntrenamiento": true
+  },
+  {
+    "id": "cancha6",
+    "tipo": "sintetico",
+    "nombre": "La Burbuja",
+    "precio": 150,
+    "descripcion": "Cancha cubierta para jugar protegido de la lluvia.",
+    "imagen": "img/cancha6.jpg",
+    "caracteristicas": [
+      "Cubierta para proteger de la lluvia",
+      "Cerramiento lateral contra el viento",
+      "Bancas cubiertas para suplentes",
+      "Zona seca para guardar tus pertenencias",
+      "Iluminación nocturna incluida en el precio"
+    ],
+    "incluyeBalon": false,
+    "incluyeIluminacion": true,
+    "incluyeKitEntrenamiento": false
+  },
+  {
+    "id": "cancha7",
+    "tipo": "cemento",
+    "nombre": "Primer Toque",
+    "precio": 90,
+    "descripcion": "Ideal para aprender: incluye conos y miniporterías.",
+    "imagen": "img/cancha7.jpg",
+    "caracteristicas": [
+      "Conos de entrenamiento incluidos",
+      "Miniporterías para practicar puntería",
+      "Balón de iniciación incluido",
+      "Ambiente para escuelas y principiantes"
+    ],
+    "incluyeBalon": true,
+    "incluyeIluminacion": false,
+    "incluyeKitEntrenamiento": false
+  },
+  {
+    "id": "cancha8",
+    "tipo": "parquet",
+    "nombre": "Punto Táctico",
+    "precio": 130,
+    "descripcion": "Entrena jugadas con pizarra y material deportivo.",
+    "imagen": "img/cancha8.jpg",
+    "caracteristicas": [
+      "Pizarra táctica para planificar jugadas",
+      "Escalera de coordinación incluida",
+      "Cronómetro de entrenamiento",
+      "Espacio cerrado para prácticas de equipo",
+      "Kit de entrenamiento incluido: conos, petos y escalera de coordinación"
+    ],
+    "incluyeBalon": false,
+    "incluyeIluminacion": false,
+    "incluyeKitEntrenamiento": true
+  },
+  {
+    "id": "cancha9",
+    "tipo": "cesped",
+    "nombre": "El Clásico",
+    "precio": 180,
+    "descripcion": "Experiencia de estadio con túnel y zona de fotos.",
+    "imagen": "img/cancha9.jpg",
+    "caracteristicas": [
+      "Ingreso por túnel de jugadores",
+      "Zona de fotos para ambos equipos",
+      "Banderines de córner",
+      "Ambiente para clásicos y retos deportivos",
+      "Iluminación nocturna incluida en el precio"
+    ],
+    "incluyeBalon": false,
+    "incluyeIluminacion": true,
+    "incluyeKitEntrenamiento": false
+  },
+  {
+    "id": "cancha10",
+    "tipo": "sintetico",
+    "nombre": "Gol de Oro",
+    "precio": 150,
+    "descripcion": "Celebra tu cumpleaños con decoración y mesa de festejo.",
+    "imagen": "img/cancha10.jpg",
+    "caracteristicas": [
+      "Mesa para torta y refrigerios",
+      "Decoración deportiva básica incluida",
+      "Espacio para fotos del festejo",
+      "Ambiente para cumpleaños y celebraciones",
+      "Iluminación nocturna incluida en el precio"
+    ],
+    "incluyeBalon": false,
+    "incluyeIluminacion": true,
+    "incluyeKitEntrenamiento": false
+  },
+  {
+    "id": "cancha11",
+    "tipo": "cemento",
+    "nombre": "La Revancha",
+    "precio": 90,
+    "descripcion": "Retos entre amigos con tablero y petos incluidos.",
+    "imagen": "img/cancha11.jpg",
+    "caracteristicas": [
+      "Tablero para anotar resultados",
+      "Petos de dos colores incluidos",
+      "Cronómetro para controlar los retos",
+      "Ambiente para desafíos entre grupos",
+      "Iluminación nocturna incluida en el precio"
+    ],
+    "incluyeBalon": false,
+    "incluyeIluminacion": true,
+    "incluyeKitEntrenamiento": false
+  },
+  {
+    "id": "cancha12",
+    "tipo": "parquet",
+    "nombre": "Tribuna Familiar",
+    "precio": 130,
+    "descripcion": "Futsal con acompañantes: asientos y acceso cómodo.",
+    "imagen": "img/cancha12.jpg",
+    "caracteristicas": [
+      "Asientos reservados para acompañantes",
+      "Acceso sin escalones al área de espectadores",
+      "Espacio para coches de bebé",
+      "Ambiente familiar en recinto techado",
+      "Kit de entrenamiento incluido: conos, petos y escalera de coordinación"
+    ],
+    "incluyeBalon": false,
+    "incluyeIluminacion": false,
+    "incluyeKitEntrenamiento": true
+  },
+  {
+    "id": "cancha13",
+    "tipo": "cesped",
+    "nombre": "Aire de Campo",
+    "precio": 180,
+    "descripcion": "Desconecta de la ciudad y disfruta un partido campestre.",
+    "imagen": "img/cancha13.jpg",
+    "caracteristicas": [
+      "Entorno campestre alejado del tráfico",
+      "Estacionamiento junto al recinto",
+      "Bebedero para rellenar botellas",
+      "Ambiente relajado para una salida de equipo",
+      "Kit de entrenamiento incluido: conos, petos y escalera de coordinación"
+    ],
+    "incluyeBalon": false,
+    "incluyeIluminacion": false,
+    "incluyeKitEntrenamiento": true
+  },
+  {
+    "id": "cancha14",
+    "tipo": "sintetico",
+    "nombre": "Zona Pro",
+    "precio": 150,
+    "descripcion": "Prepara tu torneo con grabación fija y área de calentamiento.",
+    "imagen": "img/cancha14.jpg",
+    "caracteristicas": [
+      "Soporte fijo para grabar con tu celular",
+      "Área separada para calentamiento",
+      "Vestuario con duchas",
+      "Ambiente para equipos que preparan torneos",
+      "Balón de fútbol incluido"
+    ],
+    "incluyeBalon": true,
+    "incluyeIluminacion": false,
+    "incluyeKitEntrenamiento": false
+  },
+  {
+    "id": "cancha15",
+    "tipo": "cemento",
+    "nombre": "Cancha Express",
+    "precio": 90,
+    "descripcion": "Llega y juega: préstamo de zapatillas y balón de futsal.",
+    "imagen": "img/cancha15.jpg",
+    "caracteristicas": [
+      "Préstamo de zapatillas según talla disponible",
+      "Balón de futsal incluido",
+      "Casilleros para objetos personales",
+      "Ideal para un partido después del trabajo"
+    ],
+    "incluyeBalon": true,
+    "incluyeIluminacion": false,
+    "incluyeKitEntrenamiento": false
+  }
+]
